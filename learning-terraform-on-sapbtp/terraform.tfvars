@@ -1,0 +1,1 @@
+globalaccount = "a55e2d19trial-ga"

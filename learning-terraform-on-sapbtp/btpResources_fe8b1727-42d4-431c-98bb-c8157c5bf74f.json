@@ -1,0 +1,36 @@
+{
+  "BtpResources": [
+    {
+      "Name": "subaccount",
+      "Values": [
+        "DEV Project SHAR"
+      ]
+    },
+    {
+      "Name": "entitlements",
+      "Values": [
+        "auditlog-management_default",
+        "cloudfoundry_trial",
+        "alert-notification_standard"
+      ]
+    },
+    {
+      "Name": "subscriptions",
+      "Values": [
+        "feature-flags-dashboard_dashboard"
+      ]
+    },
+    {
+      "Name": "service-instances",
+      "Values": [
+        "dev-project-shar-alert-notification_1a92101d-2e60-46f8-b41d-63489003dcd3"
+      ]
+    },
+    {
+      "Name": "security-settings",
+      "Values": [
+        "fe8b1727-42d4-431c-98bb-c8157c5bf74f"
+      ]
+    }
+  ]
+}
